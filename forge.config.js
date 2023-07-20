@@ -8,8 +8,7 @@ module.exports = {
       config: {
         repository: {
           owner: 'untalmike',
-          name: 'electron-app.git',
-          token: ''
+          name: 'https://github.com/untalmike/electron-app.git'
         },
         prerelease: false,
         draft: true
